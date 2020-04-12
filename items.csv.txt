@@ -1,0 +1,5 @@
+1111 apple 20
+1112 orange 25
+1113 lemon 40
+1114 banana 35
+1115 avocado 70
