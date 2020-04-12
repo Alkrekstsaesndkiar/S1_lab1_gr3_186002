@@ -1,3 +1,28 @@
+class Receipt{
+	List<Item> lista;
+
+	public Receipt(List<Item> lista) {
+		this.lista = lista;
+	}
+
+	public List<Item> getLista() {
+		return lista;
+	}
+
+	public void setLista(List<Item> lista) {
+		this.lista = lista;
+	}
+
+	public void addItem(Item item)
+	{
+		lista.add(item);
+	}
+
+	public void removeItem(Item item)
+	{
+		lista.remove(item);
+	}
+}
 class Item {
 	int id;
 	String name;

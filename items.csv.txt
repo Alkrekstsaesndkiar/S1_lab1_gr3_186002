@@ -1,5 +1,7 @@
 1111 apple 20
 1112 orange 25
 1113 lemon 40
-1114 banana 35
+1114 banana 28
 1115 avocado 70
+1116 domat 32
+1117 krastavica 30
